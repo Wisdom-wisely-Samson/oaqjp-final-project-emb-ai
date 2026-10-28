@@ -1,0 +1,5 @@
+theia@theiadocker-wiselywisdom:/home/project/fi
+nal_project$ pylint server.py
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 7.37/10, +2.63)
